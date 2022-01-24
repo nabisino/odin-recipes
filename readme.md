@@ -4,6 +4,7 @@ My first read me file....ODIN project test.
 Description
 My first read me file....ODIN project test.
 
+
 Getting Started
 Dependencies
 Describe any prerequisites, libraries, OS version, etc., needed before installing program.
@@ -22,8 +23,7 @@ command to run if program contains helper info
 Authors
 Contributors names and contact info
 
-ex. Dominique Pizzie
-ex. @DomPizzie
+nabisino@gmail.com
 
 Version History
 0.2
@@ -32,13 +32,6 @@ See commit change or See release history
 0.1
 Initial Release
 License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
 
 Acknowledgments
-Inspiration, code snippets, etc.
-
-awesome-readme
-PurpleBooth
-dbader
-zenorocha
-fvcproductions
